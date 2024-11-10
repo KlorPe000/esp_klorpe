@@ -203,7 +203,7 @@ getgenv().ExunysDeveloperESP = {
 			DisplayHealth = false,
 			DisplayName = false,
 			DisplayDisplayName = true,
-			DisplayTool = true
+			DisplayTool = false
 		},
 
 		Tracer = {
@@ -264,7 +264,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Chams = {
-			Enabled = false,
+			Enabled = true,
 			RainbowColor = false,
 
 			Color = Color3fromRGB(255, 255, 255),
